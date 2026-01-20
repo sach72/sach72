@@ -32,7 +32,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
 
-### 👁️ Profile Views Counter
-![](https://visitcount.itsvg.in/api?id=sach72&icon=0&color=1)
