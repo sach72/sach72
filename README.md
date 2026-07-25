@@ -68,16 +68,8 @@ Building scalable backend applications with Java & Spring Boot while exploring A
 
 ---
 
-# 📊 GitHub Analytics
-
-> **Replace `YOUR_VERCEL_APP` with your own deployed GitHub Readme Stats URL.**
-
 <p align="center">
-
-<img height="170" src="https://YOUR_VERCEL_APP.vercel.app/api?username=sach72&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=sach72&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sach72&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
