@@ -92,15 +92,11 @@ Building scalable backend applications with Java & Spring Boot while exploring A
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sach72&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/sach72/sach72/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
